@@ -1,4 +1,6 @@
-# Tackling the Health Crisis in Africa  
+# Tackling the Health Crisis in Africa 
+
+![© Unsplash](https://github.com/Dee-nDee/Tackling-the-Health-Crisis-in-Africa/blob/master/unsplash-health-africa.jpg) 
 
 ## Table of Contents 
 
